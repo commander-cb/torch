@@ -13,5 +13,13 @@ cmake -DBUILD_SHARED_LIBS:BOOL=ON -DCMAKE_BUILD_TYPE:STRING=Release -DPYTHON_EXE
 
 then
 cmake --build . --target install
+_-----------
+builds installs _AND_ imports ....but does not work.
+
+   tried the ccmake nogo
+   tried android tree nogo.
+   trying another build on my aarch64.  MAX_JOBS=1
+   
+   it
 
 

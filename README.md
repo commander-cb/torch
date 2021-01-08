@@ -17,6 +17,9 @@ _-----------
 builds installs _AND_ imports ....but does not work.
 --------------------
 
+
+i was going to post my files, but they have been moved.
+i may fi d them and post
 trying again now.
 
 ccmake .
